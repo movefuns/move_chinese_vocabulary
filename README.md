@@ -1,0 +1,2 @@
+# move_chinese_vocabulary
+Move语言翻译中文专业词汇对照表
